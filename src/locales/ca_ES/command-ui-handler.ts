@@ -1,9 +1,9 @@
 import { SimpleTranslationEntries } from "#app/interfaces/locales";
 
 export const commandUiHandler: SimpleTranslationEntries = {
-  "fight": "Fight",
-  "ball": "Ball",
+  "fight": "Lluitar",
+  "ball": "Balls",
   "pokemon": "Pokémon",
-  "run": "Run",
-  "actionMessage": "What will\n{{pokemonName}} do?",
+  "run": "Fugir",
+  "actionMessage": "Què hauria de fer\n{{pokemonName}}?",
 } as const;
