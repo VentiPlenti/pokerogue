@@ -1,14 +1,14 @@
 import { SimpleTranslationEntries } from "#app/interfaces/locales";
 
 export const modifier: SimpleTranslationEntries = {
-  "surviveDamageApply": "{{pokemonNameWithAffix}} hung on\nusing its {{typeName}}!",
-  "turnHealApply": "{{pokemonNameWithAffix}} restored a little HP using\nits {{typeName}}!",
-  "hitHealApply": "{{pokemonNameWithAffix}} restored a little HP using\nits {{typeName}}!",
-  "pokemonInstantReviveApply": "{{pokemonNameWithAffix}} was revived\nby its {{typeName}}!",
-  "pokemonResetNegativeStatStageApply": "{{pokemonNameWithAffix}}'s lowered stats were restored\nby its {{typeName}}!",
-  "moneyInterestApply": "You received interest of ₽{{moneyAmount}}\nfrom the {{typeName}}!",
-  "turnHeldItemTransferApply": "{{pokemonNameWithAffix}}'s {{itemName}} was absorbed\nby {{pokemonName}}'s {{typeName}}!",
-  "contactHeldItemTransferApply": "{{pokemonNameWithAffix}}'s {{itemName}} was snatched\nby {{pokemonName}}'s {{typeName}}!",
-  "enemyTurnHealApply": "{{pokemonNameWithAffix}}\nrestored some HP!",
-  "bypassSpeedChanceApply": "{{pokemonName}} can act faster than normal, thanks to its {{itemName}}!",
+  "surviveDamageApply": "{{pokemonNameWithAffix}} s'ha sobreviure\nemprant {{typeName}}!",
+  "turnHealApply": "{{pokemonNameWithAffix}} s'ha restaurar una mica d'HP\nutilitzant {{typeName}}!",
+  "hitHealApply": "{{pokemonNameWithAffix}} s'ha restaurar una mica d'HP\nutilitzant {{typeName}}!",
+  "pokemonInstantReviveApply": "{{pokemonNameWithAffix}} s'ha ressuscitat\nemprant {{typeName}}!",
+  "pokemonResetNegativeStatStageApply": "Les estadístiques de {{pokemonNameWithAffix}} van ser restaurades\nustilitzant {{typeName}}!",
+  "moneyInterestApply": "Has rebut interès de ₽{{moneyAmount}}\nde {{typeName}}!",
+  "turnHeldItemTransferApply": "{{itemName}} de {{pokemonNameWithAffix}} s'ha absorbit\nper {{typeName}}!",
+  "contactHeldItemTransferApply": "{{itemName}} de {{pokemonNameWithAffix}} s'ha robat\nper {{typeName}}!",
+  "enemyTurnHealApply": "{{pokemonNameWithAffix}}\ns'ha restaurar alguns PS!",
+  "bypassSpeedChanceApply": "{{pokemonName}} actua més ràpid del normal, a causa de {{itemName}}!",
 } as const;
