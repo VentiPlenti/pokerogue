@@ -50,7 +50,7 @@ export const menu: SimpleTranslationEntries = {
   "loading": "Carregant…",
   "loadingAsset": "Carregant actius: {{assetName}}",
   "playersOnline": "Jugadors en Línia",
-  "yes":"sí",
+  "yes":"Sí",
   "no":"No",
   "disclaimer": "AVÍS",
   "disclaimerDescription": "Aquest joc encara no s'ha completat; podríeu tenir problemes de joc (inclosa la possible pèrdua de dades desades),\n el joc pot canviar sense previ avís, i el joc es pot actualitzar o completar o no.",
