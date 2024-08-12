@@ -6,7 +6,7 @@ import { SimpleTranslationEntries } from "#app/interfaces/locales";
  * account interactions, descriptive text, etc.
  */
 export const menu: SimpleTranslationEntries = {
-  "cancel": "Cancel-la",
+  "cancel": "Cancel·la",
   "continue": "Continuar",
   "dailyRun": "Repte Diari (Beta)",
   "loadGame": "Carregar Partida",
