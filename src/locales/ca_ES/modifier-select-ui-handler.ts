@@ -1,14 +1,14 @@
 import { SimpleTranslationEntries } from "#app/interfaces/locales";
 
 export const modifierSelectUiHandler: SimpleTranslationEntries = {
-  "transfer": "Transfer",
-  "reroll": "Reroll",
-  "lockRarities": "Lock Rarities",
-  "checkTeam": "Check Team",
-  "transferDesc": "Transfer a held item from one Pokémon to another.",
-  "rerollDesc": "Spend money to reroll your item options.",
-  "lockRaritiesDesc": "Lock item rarities on reroll (affects reroll cost).",
-  "checkTeamDesc": "Check your team or use a form changing item.",
-  "rerollCost": "₽{{formattedMoney}}",
-  "itemCost": "₽{{formattedMoney}}"
+  "transfer": "Transferir",
+  "reroll": "Actualitzar",
+  "lockRarities": "Bloquejar rareses",
+  "checkTeam": "Veure Equip",
+  "transferDesc": "Transfereix un objecte que porta un Pokémon a un altre.",
+  "rerollDesc": "Despesa diners per actualitzar les opcions d'objectes.",
+  "lockRaritiesDesc": "Bloqueja les rareses dels objectes en actualitzar (afecta el cost d'actualització).",
+  "checkTeamDesc": "Revisa el teu equip o fes servir un objecte que canvia de forma.",
+  "rerollCost": "{{formattedMoney}}₽",
+  "itemCost": "{{formattedMoney}}₽"
 } as const;
