@@ -1,32 +1,32 @@
 import { TranslationEntries } from "#app/interfaces/locales.js";
 
 export const challenges: TranslationEntries = {
-  "title": "Challenge Modifiers",
-  "illegalEvolution": "{{pokemon}} changed into an ineligble pokémon\nfor this challenge!",
+  "title": "Paràmetres de Desafiaments",
+  "illegalEvolution": "{{pokemon}} s'ha convertit en inelegible\nper a aquest repte!",
   "singleGeneration": {
-    "name": "Mono Gen",
-    "desc": "You can only use Pokémon from Generation {{gen}}.",
-    "desc_default": "You can only use Pokémon from the chosen generation.",
-    "gen_1": "one",
-    "gen_2": "two",
-    "gen_3": "three",
-    "gen_4": "four",
-    "gen_5": "five",
-    "gen_6": "six",
-    "gen_7": "seven",
-    "gen_8": "eight",
-    "gen_9": "nine",
+    "name": "Monogeneració",
+    "desc": "Només pots usar Pokémon de {{gen}} generació.",
+    "desc_default": "Només pots fer servir Pokémon de la generació triada.",
+    "gen_1": "primera",
+    "gen_2": "sogona",
+    "gen_3": "tercera",
+    "gen_4": "quarta",
+    "gen_5": "cinquena",
+    "gen_6": "sisena",
+    "gen_7": "setena",
+    "gen_8": "vuitena",
+    "gen_9": "novena",
   },
   "singleType": {
-    "name": "Mono Type",
-    "desc": "You can only use Pokémon with the {{type}} type.",
-    "desc_default": "You can only use Pokémon of the chosen type."
+    "name": "Monotipus",
+    "desc": "Només pots usar Pokémon de tipus {{type}}.",
+    "desc_default": "Només pots fer servir Pokémon del tipus triada."
     //types in pokemon-info
   },
   "freshStart": {
-    "name": "Fresh Start",
-    "desc": "You can only use the original starters, and only as if you had just started PokéRogue.",
-    "value.0": "Off",
-    "value.1": "On",
+    "name": "Nou Començament",
+    "desc": "Només pots utilitzar els iniciadors originals, com si acabés de començar PokéRogue.",
+    "value.0": "No",
+    "value.1": "Sí",
   }
 } as const;
