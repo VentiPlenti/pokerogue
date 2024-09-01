@@ -14,7 +14,7 @@ export const ability: AbilityTranslationEntries = {
     description: "Its Speed stat is boosted every turn.",
   },
   battleArmor: {
-    name: "Armadura batalla",
+    name: "Armadura Batalla",
     description: "Bloqueja els cops crítics.",
   },
   sturdy: {
@@ -30,11 +30,11 @@ export const ability: AbilityTranslationEntries = {
     description: "El seu cos flexible protegeix el Pokémon de la paràlisi.",
   },
   sandVeil: {
-    name: "Vel sorra",
+    name: "Vel Sorra",
     description: "Augmenta l'evasió del Pokémon en una tempesta de sorra.",
   },
   static: {
-    name: "Electricitat estàtica",
+    name: "Electricitat Estàtica",
     description: "El Pokémon està carregat d'electricitat estàtica, de manera que el contacte amb ell pot causar paràlisi.",
   },
   voltAbsorb: {
