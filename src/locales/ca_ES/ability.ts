@@ -311,8 +311,7 @@ export const ability: AbilityTranslationEntries = {
   },
   motorDrive: {
     name: "Electromotor",
-    description: "Augmenta la seva stat de velocitat si es colpeja amb un moviment de tipus elèctric en lloc de rebre danys.
-",
+    description: "Augmenta la seva stat de velocitat si es colpeja amb un moviment de tipus elèctric en lloc de rebre danys.",
   },
   rivalry: {
     name: "Rivalry",
