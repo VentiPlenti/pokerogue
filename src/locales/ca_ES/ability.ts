@@ -154,7 +154,7 @@ export const ability: AbilityTranslationEntries = {
     description: "Contact with the Pokémon may poison the attacker.",
   },
   innerFocus: {
-    name: "Enfocament Interior",
+    name: "Força mental",
     description: "El Pokémon està intensament concentrat, i això el protegeix de quedar paralitzat.",
   },
   magmaArmor: {
