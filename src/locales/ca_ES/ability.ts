@@ -207,7 +207,7 @@ export const ability: AbilityTranslationEntries = {
   },
   hyperCutter: {
     name: "Tall Fort",
-    description: "El Pokémon està orgullós de les seves poderoses pinces, permeten evitar que altres Pokémon redueixin la seva estadística d'atac.",
+    description: "El Pokémon està orgullós de les seves poderoses pinces, permeten evitar que altres Pokémon redueixin la seva stat d'atac.",
   },
   pickup: {
     name: "Recollir",
@@ -219,7 +219,7 @@ export const ability: AbilityTranslationEntries = {
   },
   hustle: {
     name: "Entusiasme",
-    description: "Augmenta l'estadística d'atac, però redueix la precisió.",
+    description: "Augmenta l'stat d'atac, però redueix la precisió.",
   },
   cuteCharm: {
     name: "Gran Encant",
@@ -247,22 +247,22 @@ export const ability: AbilityTranslationEntries = {
   },
   guts: {
     name: "Coratge",
-    description: "És tan agosarat que tenir una condició d'estat incrementa l'estadística d'atac del Pokémon.",
+    description: "És tan agosarat que tenir una condició d'estat incrementa l'stat d'atac del Pokémon.",
   },
   marvelScale: {
     name: "Escama Especial",
-    description: "Les meravelloses escames del Pokémon augmenten l'estadística de Defensa si té una condició d'estat.",
+    description: "Les meravelloses escames del Pokémon augmenten l'stat de Defensa si té una condició d'estat.",
   },
   liquidOoze: {
     name: "Llot Líquid",
     description: "El líquid supurat emet una forta pudor que danya els atacants amb qualsevol moviment de drenatge.",
   },
   overgrow: {
-    name: "Sobrecréixer",
+    name: "Espessor",
     description: "Augmenta la potència dels moviments de tipus Herba quan l'HP del Pokémon és baix.",
   },
   blaze: {
-    name: "Flamarada",
+    name: "Mar Flames",
     description: "Incrementa la força dels moviments de tipus Foc quan l'HP del Pokémon és baix.",
   },
   torrent: {
@@ -291,27 +291,28 @@ export const ability: AbilityTranslationEntries = {
   },
   whiteSmoke: {
     name: "Fum Blanc",
-    description: "El Pokémon es protegeix amb el seu fum blanc, que evita que altres Pokémon redueixin les seves estadístiques.",
+    description: "El Pokémon es protegeix amb el seu fum blanc, que evita que altres Pokémon redueixin les seves stats.",
   },
   purePower: {
     name: "Poder Pur",
-    description: "Utilitzant el seu poder pur, el Pokémon duplica la seva estadística d'atac.",
+    description: "Utilitzant el seu poder pur, el Pokémon duplica la seva stat d'atac.",
   },
   shellArmor: {
-    name: "Armadura Closca",
+    name: "Closca",
     description: "El Pokémon es protegeix amb una closca dura per bloquejar els cops crítics.",
   },
   airLock: {
-    name: "Bucle Aire",
+    name: "Resclosa D'aire",
     description: "Anul·la els efectes del temps atmosfèric.",
   },
   tangledFeet: {
-    name: "Tangled Feet",
-    description: "Raises evasiveness if the Pokémon is confused.",
+    name: "Tombos",
+    description: "Augmenta l'evasió si el Pokémon està confós.",
   },
   motorDrive: {
-    name: "Motor Drive",
-    description: "Boosts its Speed stat if hit by an Electric-type move instead of taking damage.",
+    name: "Electromotor",
+    description: "Augmenta la seva stat de velocitat si es colpeja amb un moviment de tipus elèctric en lloc de rebre danys.
+",
   },
   rivalry: {
     name: "Rivalry",
