@@ -18,24 +18,24 @@ export const ability: AbilityTranslationEntries = {
     description: "Bloqueja els cops crítics.",
   },
   sturdy: {
-    name: "Ferm",
-    description: "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either.",
+    name: "Robustesa",
+    description: "No es pot eliminar amb un sol cop. Els moviments KO d'un sol cop tampoc no poden eliminar-lo.",
   },
   damp: {
-    name: "Damp",
-    description: "Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings.",
+    name: "Humitat",
+    description: "Evita l'ús de moviments explosius, com ara l'autodestrucció, humitejant el seu entorn.",
   },
   limber: {
-    name: "Limber",
-    description: "Its limber body protects the Pokémon from paralysis.",
+    name: "Flexibilitat",
+    description: "El seu cos flexible protegeix el Pokémon de la paràlisi.",
   },
   sandVeil: {
-    name: "Sand Veil",
-    description: "Boosts the Pokémon's evasiveness in a sandstorm.",
+    name: "Vel sorra",
+    description: "Augmenta l'evasió del Pokémon en una tempesta de sorra.",
   },
   static: {
-    name: "Static",
-    description: "The Pokémon is charged with static electricity, so contact with it may cause paralysis.",
+    name: "Electricitat estàtica",
+    description: "El Pokémon està carregat d'electricitat estàtica, de manera que el contacte amb ell pot causar paràlisi.",
   },
   voltAbsorb: {
     name: "Absorb Electricitat",
@@ -46,8 +46,8 @@ export const ability: AbilityTranslationEntries = {
     description: "Recupera PS al rebre atacs de tipus aigua.",
   },
   oblivious: {
-    name: "Oblivious",
-    description: "The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts.",
+    name: "Distracció",
+    description: "El Pokémon és inconscient, i això evita que s'enamori o caigui en burles.",
   },
   cloudNine: {
     name: "Cloud Nine",
@@ -207,7 +207,7 @@ export const ability: AbilityTranslationEntries = {
   },
   hyperCutter: {
     name: "Tall Fort",
-    description: "El Pokémon està orgullós de les seves poderoses pinces, que li permeten evitar que altres Pokémon redueixin la seva estadística d'atac.",
+    description: "El Pokémon està orgullós de les seves poderoses pinces, permeten evitar que altres Pokémon redueixin la seva estadística d'atac.",
   },
   pickup: {
     name: "Recollir",
@@ -218,20 +218,20 @@ export const ability: AbilityTranslationEntries = {
     description: "El Pokémon no atacarà en torns consecutius.",
   },
   hustle: {
-    name: "Tràfec",
+    name: "Entusiasme",
     description: "Augmenta l'estadística d'atac, però redueix la precisió.",
   },
   cuteCharm: {
     name: "Gran Encant",
-    description: "El contacte amb el Pokémon pot provocar desig.",
+    description: "El contacte amb el Pokémon pot provocar enamorament.",
   },
   plus: {
     name: "Més",
-    description: "Augmenta l'estadística d'Atac Especial del Pokémon si hi ha un aliat amb l'habilitat 'Més' o 'Menys' en batalla.",
+    description: "Potencia la Sp. Atk stat del Pokémon si un aliat amb l'habilitat 'Més' o 'Menys' també està en batalla.",
   },
   minus: {
     name: "Menys",
-    description: "Augmenta l'estadística d'Atac Especial del Pokémon si hi ha un aliat amb l'habilitat 'Més' o 'Menys' també en batalla.",
+    description: "Potencia la Sp. Atk stat del Pokémon si un aliat amb l'habilitat 'Més' o 'Menys' també està en batalla.",
   },
   forecast: {
     name: "Previsió",
