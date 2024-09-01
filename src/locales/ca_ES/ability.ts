@@ -174,11 +174,11 @@ export const ability: AbilityTranslationEntries = {
     description: "La insonorització dóna al Pokémon una immunitat total a tots els moviments basats en el so.",
   },
   rainDish: {
-    name: "Plat de pluja",
+    name: "Cura Pluja",
     description: "El Pokémon recupera gradualment HP amb la pluja.",
   },
   sandStream: {
-    name: "Riera de Sorra",
+    name: "Raig Sorra",
     description: "El Pokémon desferma una tempesta de sorra tan aviat com entra en batalla.",
   },
   pressure: {
