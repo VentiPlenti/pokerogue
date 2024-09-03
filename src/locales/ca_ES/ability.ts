@@ -26,8 +26,8 @@ export const ability: AbilityTranslationEntries = {
     description: "Evita l'ús de moviments explosius, com ara autodestrucció, humitejant l'entorn.",
   },
   limber: {
-    name: "Àgil",
-    description: "La seva agilitat evita que el Pokémon es paralitzi Pokémon.",
+    name: "Flexibilitat",
+    description: "El seu cos flexible protegeix el Pokémon de la paràlisi.",
   },
   sandVeil: {
     name: "Vel de sorra",
@@ -83,7 +83,7 @@ export const ability: AbilityTranslationEntries = {
   },
   suctionCups: {
     name: "Ventoses",
-    description: "Aquest Pokémon fa servir ventoses per quedar-se enganxat a terra, negant tots els moviments i objectes que el forcin fora del combat.",
+    description: "Aquest Pokémon utilitza ventoses per mantenir-se en un lloc i anul·lar tots els moviments i objectes que forcen el canvi.",
   },
   intimidate: {
     name: "Intimidació",
@@ -194,8 +194,8 @@ export const ability: AbilityTranslationEntries = {
     description: "El Pokémon es lleva del somni el doble de ràpid que altres Pokémon.",
   },
   flameBody: {
-    name: "Flama corporal",
-    description: "El contacte amb aquest Pokémon pot cremar l'atacant.",
+    name: "Cos de Flama",
+    description: "El contacte amb el Pokémon pot cremar l'atacant.",
   },
   runAway: {
     name: "Tocar el dos",
@@ -258,60 +258,60 @@ export const ability: AbilityTranslationEntries = {
     description: "Secreta un líquid llefiscós que fa pudor, provocant mals a qualsevol atacant que faci servir un moviment d'absorció.",
   },
   overgrow: {
-    name: "Overgrow",
-    description: "Powers up Grass-type moves when the Pokémon's HP is low.",
+    name: "Espessor",
+    description: "Augmenta la potència dels moviments de tipus Herba quan l'HP del Pokémon és baix.",
   },
   blaze: {
-    name: "Blaze",
-    description: "Powers up Fire-type moves when the Pokémon's HP is low.",
+    name: "Mar Flames",
+    description: "Incrementa la força dels moviments de tipus Foc quan l'HP del Pokémon és baix.",
   },
   torrent: {
     name: "Torrent",
-    description: "Powers up Water-type moves when the Pokémon's HP is low.",
+    description: "Augmenta la potència dels moviments de tipus Aigua quan l'HP del Pokémon és baix.",
   },
   swarm: {
-    name: "Swarm",
-    description: "Powers up Bug-type moves when the Pokémon's HP is low.",
+    name: "Eixam",
+    description: "Augmenta la potència dels moviments de tipus Error quan l'HP del Pokémon és baix.",
   },
   rockHead: {
-    name: "Rock Head",
-    description: "Protects the Pokémon from recoil damage.",
+    name: "Cap de Roca",
+    description: "Protegeix el Pokémon de qualsevol dany per retrocés.",
   },
   drought: {
-    name: "Drought",
-    description: "Turns the sunlight harsh when the Pokémon enters a battle.",
+    name: "Sequera",
+    description: "Fa que la llum del sol sigui intensa quan el Pokémon entra en batalla.",
   },
   arenaTrap: {
-    name: "Arena Trap",
-    description: "Prevents opposing Pokémon from fleeing.",
+    name: "Trampa de Sorra",
+    description: "Impedeix que els Pokémon rivals s'escapin.",
   },
   vitalSpirit: {
-    name: "Vital Spirit",
-    description: "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+    name: "Esperit Vital",
+    description: "El Pokémon està ple de vitalitat, cosa que li impedeix adormir-se.",
   },
   whiteSmoke: {
-    name: "White Smoke",
-    description: "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
+    name: "Fum Blanc",
+    description: "El Pokémon es protegeix amb el seu fum blanc, que evita que altres Pokémon redueixin les seves stats.",
   },
   purePower: {
-    name: "Pure Power",
-    description: "Using its pure power, the Pokémon doubles its Attack stat.",
+    name: "Poder Pur",
+    description: "Utilitzant el seu poder pur, el Pokémon duplica la seva stat d'atac.",
   },
   shellArmor: {
-    name: "Shell Armor",
-    description: "A hard shell protects the Pokémon from critical hits.",
+    name: "Closca",
+    description: "El Pokémon es protegeix amb una closca dura per bloquejar els cops crítics.",
   },
   airLock: {
-    name: "Bucle Aire",
+    name: "Resclosa D'aire",
     description: "Anul·la els efectes del temps atmosfèric.",
   },
   tangledFeet: {
-    name: "Tangled Feet",
-    description: "Raises evasiveness if the Pokémon is confused.",
+    name: "Tombos",
+    description: "Augmenta l'evasió si el Pokémon està confós.",
   },
   motorDrive: {
-    name: "Motor Drive",
-    description: "Boosts its Speed stat if hit by an Electric-type move instead of taking damage.",
+    name: "Electromotor",
+    description: "Augmenta la seva stat de velocitat si es colpeja amb un moviment de tipus elèctric en lloc de rebre danys.",
   },
   rivalry: {
     name: "Rivalry",
