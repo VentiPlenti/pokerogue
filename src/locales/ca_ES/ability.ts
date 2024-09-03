@@ -414,8 +414,8 @@ export const ability: AbilityTranslationEntries = {
     description: "The Pokémon can't use any held items.",
   },
   moldBreaker: {
-    name: "Mold Breaker",
-    description: "Moves can be used on the target regardless of its Abilities.",
+    name: "Trencamotlles",
+    description: "Es poden utilitzar moviments contra l'objectiu ignorant la seva habilitat.",
   },
   superLuck: {
     name: "Super Luck",
@@ -1010,8 +1010,8 @@ export const ability: AbilityTranslationEntries = {
     description: "Powers up ally Pokémon's Steel-type moves.",
   },
   perishBody: {
-    name: "Perish Body",
-    description: "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.",
+    name: "Cos mortal",
+    description: "Quan et colpegen amb un moviment de contacte físic, el Pokémon i l'atacant perdran el coneixement en 3 torns a no ser que es retirin del combat.",
   },
   wanderingSpirit: {
     name: "Wandering Spirit",
@@ -1034,8 +1034,8 @@ export const ability: AbilityTranslationEntries = {
     description: "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.",
   },
   quickDraw: {
-    name: "Quick Draw",
-    description: "Enables the Pokémon to move first occasionally.",
+    name: "Mà ràpida",
+    description: "Permet que el Pokémon es mogui primer ocasionalment.",
   },
   unseenFist: {
     name: "Unseen Fist",
@@ -1134,20 +1134,20 @@ export const ability: AbilityTranslationEntries = {
     description: "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves.",
   },
   vesselOfRuin: {
-    name: "Vessel of Ruin",
-    description: "The power of the Pokémon's ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself.",
+    name: "Marmita de la ruïna",
+    description: "El poder de la marmita d'aquest Pokémon disminueix l'atac especial de la resta de Pokémon al camp.",
   },
   swordOfRuin: {
-    name: "Sword of Ruin",
-    description: "The power of the Pokémon's ruinous sword lowers the Defense stats of all Pokémon except itself.",
+    name: "Espasa de la ruïna",
+    description: "El poder de l'espasa d'aquest Pokémon disminueix la defensa de la resta de Pokémon al camp.",
   },
   tabletsOfRuin: {
-    name: "Tablets of Ruin",
-    description: "The power of the Pokémon's ruinous wooden tablets lowers the Attack stats of all Pokémon except itself.",
+    name: "Tabel·les de la ruïna",
+    description: "El poder de les tabel·les d'aquest Pokémon disminueix l'atac de la resta de Pokémon al camp.",
   },
   beadsOfRuin: {
-    name: "Beads of Ruin",
-    description: "The power of the Pokémon's ruinous beads lowers the Sp. Def stats of all Pokémon except itself.",
+    name: "Perles de la ruïna",
+    description: "El poder de les perles d'aquest Pokémon disminueix la defensa especial de la resta de Pokémon al camp.",
   },
   orichalcumPulse: {
     name: "Orichalcum Pulse",
