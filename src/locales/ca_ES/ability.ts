@@ -259,19 +259,19 @@ export const ability: AbilityTranslationEntries = {
   },
   overgrow: {
     name: "Espessor",
-    description: "Augmenta la potència dels moviments de tipus Herba quan l'HP del Pokémon és baix.",
+    description: "Augmenta la potència dels moviments de tipus herba quan la salut del Pokémon és baixa.",
   },
   blaze: {
     name: "Mar Flames",
-    description: "Incrementa la força dels moviments de tipus Foc quan l'HP del Pokémon és baix.",
+    description: "Incrementa la força dels moviments de tipus foc quan la salut del Pokémon és baixa.",
   },
   torrent: {
     name: "Torrent",
-    description: "Augmenta la potència dels moviments de tipus Aigua quan l'HP del Pokémon és baix.",
+    description: "Augmenta la potència dels moviments de tipus aigua quan la salut del Pokémon és baixa.",
   },
   swarm: {
     name: "Eixam",
-    description: "Augmenta la potència dels moviments de tipus Error quan l'HP del Pokémon és baix.",
+    description: "Augmenta la potència dels moviments de tipus insecte quan la salut del Pokémon és baixa.",
   },
   rockHead: {
     name: "Cap de Roca",
@@ -314,8 +314,8 @@ export const ability: AbilityTranslationEntries = {
     description: "Augmenta la seva stat de velocitat si es colpeja amb un moviment de tipus elèctric en lloc de rebre danys.",
   },
   rivalry: {
-    name: "Rivalry",
-    description: "Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender.",
+    name: "Rivalitat",
+    description: "Es torna competitiu i fa més mal als Pokémon del mateix gènere, però fa menys mal als Pokémon del gènere contrari.",
   },
   steadfast: {
     name: "Steadfast",
